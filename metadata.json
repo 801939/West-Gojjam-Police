@@ -1,0 +1,12 @@
+{
+  "name": "Remix: West Gojjam Zone Police 1",
+  "description": "Official management system for the West Gojjam Zone Police department, tracking incidents, officers, and community reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
